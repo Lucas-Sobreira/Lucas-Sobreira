@@ -2,9 +2,6 @@
 
 <p>Apaixonado por solucionar problemas, utilizando dados.</p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Sobreira&count_private=true&show_icons=true&theme=dracula&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
@@ -17,6 +14,8 @@
 </div>
 
 <!---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Sobreira&count_private=true&show_icons=true&theme=dracula&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ==>> https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#github-stats-card
 
